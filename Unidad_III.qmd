@@ -1,5 +1,5 @@
 ---
-title: "GERMINACIÓN DE SEMILLAS DE TRIGO (Triticum aestivum) BAJO DIFERENTES NIVELES DE pH."
+title: "GERMINACIÓN DE SEMILLAS DE TRIGO (*Triticum aestivum*) BAJO DIFERENTES NIVELES DE pH."
 author: "Huanambal Galvez Jose Luis, Perez Campos Elda, Pizarro Zabaleta Nixon, Roman Peña Lleyner, Tomapasca Lopez Frank, Vega Chavez Gimena"
 format:
   html:
@@ -24,7 +24,9 @@ Por ejemplo, niveles de pH ácidos o alcalinos extremos pueden provocar un retra
 
 ## Objetivo general
 
-Evaluar el efecto de diferentes niveles de pH (ácido, alcalino y neutro) en la germinación de semillas de trigo (*Triticum aestivum*). \## Objetivos especificos
+Evaluar el efecto de diferentes niveles de pH (ácido, alcalino y neutro) en la germinación de semillas de trigo (*Triticum aestivum*). 
+
+## Objetivos especificos
 
 -Calcular el índice de velocidad de germinación de semillas de trigo en función del pH (ácido, neutro y alcalino).
 
